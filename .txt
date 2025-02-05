@@ -44,3 +44,10 @@ Explain the diffrence between var let and const
 
  question 7:
  What are promises in JavaScript and how are they used?
+
+ Round 2
+
+ Quesion8:
+ What are the diffrence between React and Next.js?
+
+ Question 9:
