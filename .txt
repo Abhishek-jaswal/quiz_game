@@ -35,3 +35,12 @@ Explain the diffrence between var let and const
  
  question 4:
  what is the event loo[ in JavaScript?]
+
+ question 5:
+ How does flexbox work is CSS?
+
+ question 6:
+ What are Semantic HTML elements? Give example?
+
+ question 7:
+ What are promises in JavaScript and how are they used?
