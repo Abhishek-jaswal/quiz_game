@@ -31,3 +31,7 @@ question 2:
 what is hoisting in javaScript?
 
 question 3:
+Explain the diffrence between var let and const
+ 
+ question 4:
+ what is the event loo[ in JavaScript?]
