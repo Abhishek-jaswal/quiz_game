@@ -15,3 +15,16 @@ function UserList() {
     </ul>
   );
 }
+
+
+question 3: explain the diffrence between var let const
+answer:   let : we are using let for using global variables to store the variables 
+var : var uses for storing variables mainly then when we want to store local variables.
+const: const use for storing variables but we cant overwrite on const 
+and let and var we overwrite the values
+
+
+question 1:
+what is the diffrence between == and === in javaScript
+
+question 2:
