@@ -28,3 +28,6 @@ question 1:
 what is the diffrence between == and === in javaScript
 
 question 2:
+what is hoisting in javaScript?
+
+question 3:
